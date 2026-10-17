@@ -1,0 +1,11 @@
+,0
+Annualized Sharpe,1.0765233039611106
+Daily Sharpe,0.06781459387730221
+Skewness,-0.5958777229832121
+Kurtosis,9.33933579286639
+Observations,5030.0
+Documented trials,17.0
+Trial Sharpe stdev (annualized),0.06705995759855676
+Expected max Sharpe under null (annualized),0.12259188978521453
+PSR vs 0,0.9999986552421533
+Deflated Sharpe (PSR vs expected max),0.9999840008821519
